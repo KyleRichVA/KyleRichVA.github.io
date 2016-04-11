@@ -1,7 +1,0 @@
-Title: My first post
-Date: 03-08-2016
-Category: General
-Tags: pelican, publishing
-Author: Kyle Richardson
-
-Here is my very first post.
